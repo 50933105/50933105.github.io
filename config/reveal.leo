@@ -25,7 +25,10 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210430002138.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210430002906.1"><vh>slide 3-3</vh></v>
 </v>
+<v t="leo.20210430004136.1"><vh>slide 3</vh></v>
 </v>
 </v>
 </v>
@@ -173,30 +176,29 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;h3&gt;第三組網際網路內容管理報告&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://50933114.github.io"&gt;50933114 &lt;a href="https://50933105.github.io"&gt;50933105 &lt;a href="https://50933105.github.io"&gt;50933105 &lt;a href="https://50933105.github.io"&gt;50933105 &lt;a href="https://50933105.github.io"&gt;50933105 &lt;a href="https://50933105.github.io"&gt;50933105&lt;/small&gt;&lt;/a&gt;
+        &lt;small&gt;Created by &lt;a href="https://50933114.github.io"&gt;50933114  曾聖允 &lt;a href="https://50933105.github.io"&gt;50933105  廖偉宸 &lt;a href="https://50933106.github.io"&gt;50933106  張家翰 &lt;a href="https://50933110.github.io"&gt;50933110  劉子誠 &lt;a href="https://50933131.github.io"&gt;50933131  陳雍天 &lt;a href="https://50933132.github.io"&gt;50933132  陳雍元&lt;/small&gt;&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
+    &lt;img src="https://50933114.github.io/images/06.jpg"width="50%" height="50%"&gt;
     &lt;h2&gt;組一台主機所需的硬體&lt;/h2&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
-    &lt;img src="https://50933114.github.io/images/01.jpg"width="50%" height="50%"&gt;
-    &lt;h3&gt;1.中央處理器(CPU):&lt;/h3&gt;
-    &lt;p&gt;是電腦主機中最重要的裝置，也是零組件當中價格數一數二貴的，主要功能是用於運算電腦的各項指令，以及處理電腦軟體中的資料，就如同人的心臟與大腦一般。
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;img src="https://50933114.github.io/images/02.jpg"width="50%" height="50%"&gt;
-    &lt;h3&gt;2.主機板(MB):&lt;/h3&gt;
+    &lt;h3&gt;1.主機板(MB):&lt;/h3&gt;
     &lt;p&gt;又可稱為主板、系統板、母板、底板等，主要的構成元件是由晶片組（Chipset）；晶片組能為主機板提供一個通用平台，來供給不同裝置連接，並控制不同裝置的溝通。&lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20200818170909.1">&lt;section&gt;
+    &lt;img src="https://50933114.github.io/images/01.jpg"width="50%" height="50%"&gt;
+    &lt;h3&gt;2.中央處理器(CPU):&lt;/h3&gt;
+    &lt;p&gt;是電腦主機中最重要的裝置，也是零組件當中價格數一數二貴的，主要功能是用於運算電腦的各項指令，以及處理電腦軟體中的資料，就如同人的心臟與大腦一般。
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;img src="https://50933114.github.io/images/03.jpg"width="50%" height="50%"&gt;
     &lt;h3&gt;3.記憶體(RAM):&lt;/h3&gt;
@@ -210,6 +212,20 @@ vertical: body pane on the botton</t>
  &lt;/section&gt;</t>
 <t tx="leo.20210429231518.1">&lt;section&gt;
     @others
+&lt;/section&gt;</t>
+<t tx="leo.20210430002138.1">&lt;section&gt;
+    &lt;img src="https://50933114.github.io/images/07.jpg"width="50%" height="50%"&gt;
+    &lt;h3&gt;5.顯示卡&lt;/h3&gt;
+    &lt;p&gt;它專門負責了電腦中一大部分的圖形運算&lt;/p&gt;
+ &lt;/section&gt;</t>
+<t tx="leo.20210430002906.1">&lt;section&gt;
+    &lt;img src="https://50933114.github.io/images/05.jpg"width="50%" height="50%"&gt;
+    &lt;h3&gt;6.電源供應器&lt;/h3&gt;
+    &lt;p&gt;世上有各式各樣的電源供應器，而80 PLUS是一項針對電源供應器所做的規範&lt;/p&gt;
+ &lt;/section&gt;</t>
+<t tx="leo.20210430004136.1">&lt;section&gt;
+    &lt;h1&gt;END&lt;/h1&gt;
+    &lt;h2&gt;謝謝大家&lt;/h2&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
