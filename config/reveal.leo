@@ -22,13 +22,14 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20210429231518.1"><vh>slide 3</vh>
 <v t="leo.20200818170636.1"><vh>slide 3-0</vh></v>
+<v t="leo.20210430073501.1"><vh>slide 3-0</vh></v>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-<v t="leo.20210430002138.1"><vh>slide 3-3</vh></v>
-<v t="leo.20210430002906.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210430002138.1"><vh>slide 3-4</vh></v>
+<v t="leo.20210430002906.1"><vh>slide 3-5</vh></v>
 </v>
-<v t="leo.20210430004136.1"><vh>slide 3</vh></v>
+<v t="leo.20210430004136.1"><vh>slide 4</vh></v>
 </v>
 </v>
 </v>
@@ -188,7 +189,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
-    &lt;img src="https://50933114.github.io/images/02.jpg"width="50%" height="50%"&gt;
+    &lt;img src="https://50933114.github.io/images/08.jpg"width="50%" height="50%"&gt;
     &lt;h3&gt;1.主機板(MB):&lt;/h3&gt;
     &lt;p&gt;又可稱為主板、系統板、母板、底板等，主要的構成元件是由晶片組（Chipset）；晶片組能為主機板提供一個通用平台，來供給不同裝置連接，並控制不同裝置的溝通。&lt;/p&gt;
 &lt;/section&gt;
@@ -227,5 +228,10 @@ vertical: body pane on the botton</t>
     &lt;h1&gt;END&lt;/h1&gt;
     &lt;h2&gt;謝謝大家&lt;/h2&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210430073501.1">&lt;section&gt;
+    &lt;h3&gt;主機板上的外露接頭&lt;/h3&gt;
+    &lt;img src="https://50933114.github.io/images/09.jpg"width="50%" height="50%"&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
