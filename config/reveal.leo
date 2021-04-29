@@ -204,7 +204,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;img src="https://50933114.github.io/images/05.png"width="50%" height="50%"&gt;
+    &lt;img src="https://50933114.github.io/images/04.png"width="50%" height="50%"&gt;
     &lt;h3&gt;4.硬碟&lt;/h3&gt;
     &lt;p&gt;是專門負責電腦上的數位資料讀取及儲存&lt;/p&gt;
  &lt;/section&gt;</t>
