@@ -209,9 +209,9 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+        &lt;img src="https://50933114.github.io/images/01.JPG" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h3&gt;第三組網際網路內容管理報告&lt;/h3&gt;
     &lt;p&gt;
         &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
@@ -219,7 +219,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;組一台主機所需的硬體&lt;/h2&gt;
     &lt;p&gt;
         reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
     &lt;/p&gt;
@@ -228,7 +228,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
-    @others
+    &lt;h2&gt;1.中央處理器:&lt;/h2&gt;
+    &lt;p&gt;是電腦主機中最重要的裝置，也是零組件當中價格數一數二貴的，主要功能是用於運算電腦的各項指令，以及處理電腦軟體中的資料，就如同人的心臟與大腦一般。
+    &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -241,28 +243,19 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;2.主機板:&lt;/h2&gt;
+    &lt;p&gt;又可稱為主板、系統板、母板、底板等，主要的構成元件是由晶片組（Chipset）；晶片組能為主機板提供一個通用平台，來供給不同裝置連接，並控制不同裝置的溝通。&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;3.記憶體:&lt;/h2&gt;
+    &lt;p&gt;隨機存取記憶體，又叫主記憶體；其功能主要是與 CPU 直接交換資料，讀寫速度快，通常用在作業系統或其他正在執行中的程式的臨時資料儲存媒介。因為是臨時資料儲存媒介， 所以關機後就不見了。&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
+    &lt;h2&gt;4.硬碟&lt;/h2&gt;
+    &lt;p&gt;是專門負責電腦上的數位資料讀取及儲存&lt;/p&gt;
+ &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
