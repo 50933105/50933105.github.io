@@ -230,7 +230,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210430073501.1">&lt;section&gt;
     &lt;h3&gt;主機板上的外露接頭&lt;/h3&gt;
-    &lt;img src="https://50933114.github.io/images/09.jpg"width="50%" height="50%"&gt;
+    &lt;img src="https://50933114.github.io/images/09.jpg"width="150%" height="150%"&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
